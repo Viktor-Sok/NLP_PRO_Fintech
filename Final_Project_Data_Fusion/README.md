@@ -4,7 +4,7 @@
 Существует 7 классов рейтинга, которые дробятся на более подробные, что приводит к 17 классам. В рамках нашей работы мы ограничились работой с 7 классами, т.к. данных очень мало (порядка 1200) и классифицировать на 17 классов является сложной задачей для обобщения моделью.
 ![](assets/classes.jpg)
 # Классификация 5-грамм логистической регрессией и интерпретация её весов с помощью [ELI5](https://eli5.readthedocs.io/en/latest/tutorials/sklearn-text.html)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Viktor-Sok/Image_Editing_StyleCLIP_Optimization/blob/main/notebooks/styleCLIP_optimization_playground.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Viktor-Sok/NLP_PRO_Fintech/blob/main/Final_Project_Data_Fusion/notebooks/Credit_Rating_LogReg_and_ELI5.ipynb)
 
 Моей частью работы было классифицировать с помощью логистической регрессии используя фичами 5-граммы (последовательности из 5 токенов). На 7 классах были получены следующие результаты:
 
